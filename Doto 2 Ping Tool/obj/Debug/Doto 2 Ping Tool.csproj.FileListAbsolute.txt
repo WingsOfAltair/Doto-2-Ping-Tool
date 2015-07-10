@@ -1,0 +1,13 @@
+D:\C# Projects\Doto 2 Ping Tool\Doto 2 Ping Tool\bin\Debug\Doto 2 Ping Tool.exe.config
+D:\C# Projects\Doto 2 Ping Tool\Doto 2 Ping Tool\obj\Debug\Doto 2 Ping Tool.exe
+D:\C# Projects\Doto 2 Ping Tool\Doto 2 Ping Tool\obj\Debug\Doto 2 Ping Tool.pdb
+D:\C# Projects\Doto 2 Ping Tool\Doto 2 Ping Tool\bin\Debug\Doto 2 Ping Tool.exe
+D:\C# Projects\Doto 2 Ping Tool\Doto 2 Ping Tool\bin\Debug\Doto 2 Ping Tool.pdb
+D:\C# Projects\Doto 2 Ping Tool\Doto 2 Ping Tool\obj\Debug\Doto 2 Ping Tool.csprojResolveAssemblyReference.cache
+D:\C# Projects\Doto 2 Ping Tool\Doto 2 Ping Tool\obj\Debug\MainWindow.baml
+D:\C# Projects\Doto 2 Ping Tool\Doto 2 Ping Tool\obj\Debug\MainWindow.g.cs
+D:\C# Projects\Doto 2 Ping Tool\Doto 2 Ping Tool\obj\Debug\App.g.cs
+D:\C# Projects\Doto 2 Ping Tool\Doto 2 Ping Tool\obj\Debug\Doto 2 Ping Tool_MarkupCompile.cache
+D:\C# Projects\Doto 2 Ping Tool\Doto 2 Ping Tool\obj\Debug\Doto 2 Ping Tool.g.resources
+D:\C# Projects\Doto 2 Ping Tool\Doto 2 Ping Tool\obj\Debug\Doto_2_Ping_Tool.Properties.Resources.resources
+D:\C# Projects\Doto 2 Ping Tool\Doto 2 Ping Tool\obj\Debug\Doto 2 Ping Tool.csproj.GenerateResource.Cache
